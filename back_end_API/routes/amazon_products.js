@@ -4,7 +4,6 @@ const router = express.Router();
 const validator_scrape = require('../middlewares/validators/amazon_products_routers_validator');
 const getAmazonProducts = require('../service/amazon/amazon_service');
 const formater_products = require('../service/amazon/data_formater');
-const {log} = require("debug");
 
 router.get('/scrape', validator_scrape(), async (req, res) => {
     const keyword = req.query.keyword;
