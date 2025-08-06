@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/back_end_API/back_end_API.iml" filepath="$PROJECT_DIR$/back_end_API/back_end_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front_end/front_end.iml" filepath="$PROJECT_DIR$/front_end/front_end.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_Carvalho_Aleixo.iml" filepath="$PROJECT_DIR$/test_Carvalho_Aleixo.iml" />
     </modules>
   </component>
